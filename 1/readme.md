@@ -1,0 +1,1 @@
+`gcc main.c && xclip -selection clipboard -o | time ./a.out`
