@@ -1,0 +1,1 @@
+`xclip -selection clipboard -o | time python3 a.py`
