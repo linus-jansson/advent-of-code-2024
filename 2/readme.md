@@ -1,0 +1,1 @@
+`go build -o a.out && xclip -selection clipboard -o | time ./a.out`
